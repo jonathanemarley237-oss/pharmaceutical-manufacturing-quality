@@ -179,17 +179,17 @@ Year, Product and Manufacturing Line slicers are synchronised across the report 
 
 7. POWER BI DASHBOARD
 
-Executive Overview
+### Executive Overview
 
-"Executive Overview" (Images/executive_overview.png)
+!["Executive Overview"] (7.%20images/executive_overview.png)
 
-Failure & Deviation Analysis
+### Failure & Deviation Analysis
 
-"Failure & Deviation Analysis" (Images/failure_deviation_analysis.png)
+!["Failure & Deviation Analysis"] (7.%20images/failure_deviation_analysis.png)
 
-Process Performance Analysis
+### Process Performance Analysis
 
-"Process Performance Analysis" (Images/process_performance.png)
+!["Process Performance Analysis"] (7.%20images/process_performance.png)
 
 -------------------------------------------------------------------------------------------------------
 
@@ -285,17 +285,16 @@ Several limitations should be considered when interpreting the results:
 11. REPOSITORY STRUCTURE
 
 pharmaceutical_manufacturing_quality/
-1. README/
-    - README.md
+README.md
 
 2. Data/
     - cleaned/
-        pharma_manufacturing_cleaned.csv.csv
+        pharma_manufacturing_cleaned.csv
     - raw/
-        pharma_manufacturing_raw.csv.csv
+        pharma_manufacturing_raw.csv
 
 3. Excel/
-    - pharma_manufacturing_dataset.xlsx.xlsx
+    - pharma_manufacturing_dataset.xlsx
 
 4. SQL/
     - pharmaceutical_manufacturing_analysis.sql
@@ -304,7 +303,7 @@ pharmaceutical_manufacturing_quality/
     - pharmaceutical_manufacturing_analysis.ipynb
 
 6. PowerBI/
-    - pharmaceutical_manufacturing_quality.pbix
+    - pharmaceutical_manufacturing_quality_dashboard.pbix
 
 7. Images/
     - executive_overview.png
