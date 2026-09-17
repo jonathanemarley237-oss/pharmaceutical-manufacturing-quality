@@ -181,15 +181,15 @@ Year, Product and Manufacturing Line slicers are synchronised across the report 
 
 ### Executive Overview
 
-!["Executive Overview"] (7.%20images/executive_overview.png)
+!["Executive Overview"](7.%20images/executive_overview.png)
 
 ### Failure & Deviation Analysis
 
-!["Failure & Deviation Analysis"] (7.%20images/failure_deviation_analysis.png)
+!["Failure & Deviation Analysis"](7.%20images/failure_deviation_analysis.png)
 
 ### Process Performance Analysis
 
-!["Process Performance Analysis"] (7.%20images/process_performance.png)
+!["Process Performance Analysis"](7.%20images/process_performance.png)
 
 -------------------------------------------------------------------------------------------------------
 
